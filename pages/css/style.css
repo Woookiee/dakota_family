@@ -74,8 +74,8 @@ p {
 }
 
 .profile-card header {
-  width: 179px;
-  height: 280px;
+  width: 250px;
+  height: 560px;
   padding: 5px 5px 30px 20px;
   display: inline-block;
   float: left;
@@ -309,8 +309,8 @@ p {
     -webkit-border-radius: 4px;
   }
   100% {
-    width: 440px;
-    height: 280px;
+    width: 660px;
+    height: 420px;
     background: #FFFFFF;
     -webkit-border-radius: 4px;
   }
@@ -324,8 +324,8 @@ p {
     border-radius: 4px;
   }
   100% {
-    width: 440px;
-    height: 280px;
+    width: 660px;
+    height: 420px;
     background: #FFFFFF;
     border-radius: 4px;
   }
@@ -459,8 +459,8 @@ p {
       -webkit-border-radius: 4px;
     }
     100% {
-      width: 280px;
-      height: 440px;
+      width: 660px;
+    height: 420px;
       background: #FFFFFF;
       -webkit-border-radius: 4px;
     }
@@ -473,8 +473,8 @@ p {
       border-radius: 4px;
     }
     100% {
-      width: 280px;
-      height: 440px;
+     width: 660px;
+    height: 420px;
       background: #FFFFFF;
       border-radius: 4px;
     }
