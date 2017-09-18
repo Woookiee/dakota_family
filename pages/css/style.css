@@ -160,9 +160,9 @@ p {
 .profile-social-links li a {
   display: inline-block;
   color: red;
-  width: 60px;
-  height: 60px;
-  padding: 6px;
+  width: 160px;
+  height: 160px;
+  padding: 10px;
   position: relative;
   overflow: hidden!important;
   -webkit-border-radius: 50%;
@@ -176,7 +176,7 @@ p {
 
 .profile-social-links li a img,
 .profile-social-links li a svg {
-  width: 24px;
+  width: 60px;
 }
 
 @-webkit-keyframes init {
