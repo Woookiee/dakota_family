@@ -36,7 +36,7 @@ body:before {
 h1,
 h2 {
   font-weight: 400;
-  margin: 5px 5px 10px 5px;
+  margin: 15px 5px 25px 5px;
 }
 
 h1 {
@@ -160,8 +160,8 @@ p {
 .profile-social-links li a {
   display: inline-block;
   color: red;
-  width: 24px;
-  height: 24px;
+  width: 60px;
+  height: 60px;
   padding: 6px;
   position: relative;
   overflow: hidden!important;
@@ -442,7 +442,7 @@ p {
   .profile-card .profile-bio {
     width: auto;
     height: auto;
-    padding: 20px 20px 20px 20px;
+    padding: 50px 20px 20px 20px;
     display: block;
     float: none;
   }
@@ -511,7 +511,8 @@ width: 90%;
 
 .btn span {
   display: block;
-  padding: 24px 48px;
+  padding: 48px 96px;
+  font-size: 26px;
 }
 
 .btn:before {
