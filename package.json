@@ -1,0 +1,12 @@
+{
+  "name": "dakota",
+  "version": "1.0.0",
+  "description": "My add-on for bussines account on insta",
+  "main": "index.js",
+  "scripts": {
+    "test": "go",
+    "start": "node server.js"
+  },
+  "author": "Khabibov Daler",
+  "license": "ISC"
+}
