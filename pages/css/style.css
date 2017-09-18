@@ -176,7 +176,7 @@ p {
 
 .profile-social-links li a img,
 .profile-social-links li a svg {
-  width: 60px;
+  width: 160px;
 }
 
 @-webkit-keyframes init {
