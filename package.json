@@ -1,13 +1,24 @@
 {
   "name": "dakota",
   "version": "1.0.0",
-  "description": "My add-on for bussines account on insta",
-  "main": "index.js",
-  "scripts": {
-    "test": "go",
-    "start": "node server.js",
-    "web":"node server.js"
+  "description": "my server",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.4"
   },
-  "author": "Khabibov Daler",
-  "license": "ISC"
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Woookiee/dakota_family.git"
+  },
+  "author": "Daler Khabibov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Woookiee/dakota_family/issues"
+  },
+  "homepage": "https://github.com/Woookiee/dakota_family#readme"
 }
