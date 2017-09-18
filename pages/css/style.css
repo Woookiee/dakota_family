@@ -486,7 +486,7 @@ p {
   display: block;
   margin: 50px auto;
   padding: 0;
-height: 25%;
+height: 70%;
 width: 90%;
   overflow: hidden;
 
@@ -511,7 +511,7 @@ width: 90%;
 
 .btn span {
   display: block;
-  padding: 12px 24px;
+  padding: 24px 48px;
 }
 
 .btn:before {
