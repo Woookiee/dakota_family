@@ -40,11 +40,11 @@ h2 {
 }
 
 h1 {
-  font-size: 26px;
+  font-size: 48px;
 }
 
 h2 {
-  font-size: 26px;
+  font-size: 48px;
 }
 
 p {
@@ -102,7 +102,7 @@ p {
 
 
 .profile-card header a > img {
-  width: 70%;
+  width: 100%;
   max-width: 100%;
   -webkit-border-radius: 50%;
   border-radius: 50%;
@@ -512,7 +512,7 @@ width: 90%;
 .btn span {
   display: block;
   padding: 48px 96px;
-  font-size: 26px;
+  font-size: 48px;
 }
 
 .btn:before {
