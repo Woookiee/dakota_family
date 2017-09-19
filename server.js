@@ -10,7 +10,7 @@ app.get('/', function(req, res){
 });
 
 app.get('/rules', function(req, res){
-    res.sendFile('C:/Users/Daler/Desktop/Azure/NodeProjects/Dakota/pages/rules.html', {root: __dirname })
+    res.sendFile('pages/rules.html', {root: __dirname })
 });
 
 app.listen(PORT, function(){
