@@ -8,7 +8,7 @@ app.get('/', function(req, res){
     res.sendFile('pages/index.html', {root: __dirname })
 });
 
-app.get('/rules', function(req, res){
+app.get('/about', function(req, res){
     res.sendFile('pages/rules.html', {root: __dirname })
 });
 
