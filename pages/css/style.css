@@ -52,8 +52,14 @@ h2 {
 }
 
 p {
+  font-size: 36px;
   margin: 0px;
   padding: 1px 1px 1px 1px;
+}
+
+.rule{
+font-size: 42px;
+font-weight: 450;
 }
 
 .profile-card {
