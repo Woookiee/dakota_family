@@ -110,6 +110,16 @@ font-weight: 450;
 
 }
 
+.profile-card header h2 {
+  color: #FF9600;
+   display: block;
+   height: auto;
+        width: auto;
+       
+
+
+}
+
 .profile-card header a {
   display: inline-block;
   text-align: center;
